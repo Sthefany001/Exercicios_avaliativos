@@ -1,0 +1,15 @@
+C:\Users\Samsung\OneDrive\Área de Trabalho\Programação\Linguagem de programação 2ºB\Exercícios Avaliativos\Exercícios Avaliativos\bin\Debug\net6.0\Exercicio 1.exe
+C:\Users\Samsung\OneDrive\Área de Trabalho\Programação\Linguagem de programação 2ºB\Exercícios Avaliativos\Exercícios Avaliativos\bin\Debug\net6.0\Exercicio 1.deps.json
+C:\Users\Samsung\OneDrive\Área de Trabalho\Programação\Linguagem de programação 2ºB\Exercícios Avaliativos\Exercícios Avaliativos\bin\Debug\net6.0\Exercicio 1.runtimeconfig.json
+C:\Users\Samsung\OneDrive\Área de Trabalho\Programação\Linguagem de programação 2ºB\Exercícios Avaliativos\Exercícios Avaliativos\bin\Debug\net6.0\Exercicio 1.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\Programação\Linguagem de programação 2ºB\Exercícios Avaliativos\Exercícios Avaliativos\bin\Debug\net6.0\Exercicio 1.pdb
+C:\Users\Samsung\OneDrive\Área de Trabalho\Programação\Linguagem de programação 2ºB\Exercícios Avaliativos\Exercícios Avaliativos\obj\Debug\net6.0\Exercicio 1.csproj.AssemblyReference.cache
+C:\Users\Samsung\OneDrive\Área de Trabalho\Programação\Linguagem de programação 2ºB\Exercícios Avaliativos\Exercícios Avaliativos\obj\Debug\net6.0\Exercicio 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samsung\OneDrive\Área de Trabalho\Programação\Linguagem de programação 2ºB\Exercícios Avaliativos\Exercícios Avaliativos\obj\Debug\net6.0\Exercicio 1.AssemblyInfoInputs.cache
+C:\Users\Samsung\OneDrive\Área de Trabalho\Programação\Linguagem de programação 2ºB\Exercícios Avaliativos\Exercícios Avaliativos\obj\Debug\net6.0\Exercicio 1.AssemblyInfo.cs
+C:\Users\Samsung\OneDrive\Área de Trabalho\Programação\Linguagem de programação 2ºB\Exercícios Avaliativos\Exercícios Avaliativos\obj\Debug\net6.0\Exercicio 1.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\OneDrive\Área de Trabalho\Programação\Linguagem de programação 2ºB\Exercícios Avaliativos\Exercícios Avaliativos\obj\Debug\net6.0\Exercicio 1.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\Programação\Linguagem de programação 2ºB\Exercícios Avaliativos\Exercícios Avaliativos\obj\Debug\net6.0\refint\Exercicio 1.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\Programação\Linguagem de programação 2ºB\Exercícios Avaliativos\Exercícios Avaliativos\obj\Debug\net6.0\Exercicio 1.pdb
+C:\Users\Samsung\OneDrive\Área de Trabalho\Programação\Linguagem de programação 2ºB\Exercícios Avaliativos\Exercícios Avaliativos\obj\Debug\net6.0\Exercicio 1.genruntimeconfig.cache
+C:\Users\Samsung\OneDrive\Área de Trabalho\Programação\Linguagem de programação 2ºB\Exercícios Avaliativos\Exercícios Avaliativos\obj\Debug\net6.0\ref\Exercicio 1.dll
