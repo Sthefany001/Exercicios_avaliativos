@@ -8,5 +8,7 @@
 
 		Console.WriteLine($"\nValor estimado do terreno = R${t.ValorEstimado(1684.45).ToString("0.00")}");
 		
+		//testando git pull
+		
 	}
 }
